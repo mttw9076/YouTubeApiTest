@@ -1,0 +1,14 @@
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\bin\Debug\net9.0\YouTubeApiTest.exe
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\bin\Debug\net9.0\YouTubeApiTest.deps.json
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\bin\Debug\net9.0\YouTubeApiTest.runtimeconfig.json
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\bin\Debug\net9.0\YouTubeApiTest.dll
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\bin\Debug\net9.0\YouTubeApiTest.pdb
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.AssemblyInfoInputs.cache
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.AssemblyInfo.cs
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.csproj.CoreCompileInputs.cache
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.dll
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\refint\YouTubeApiTest.dll
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.pdb
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.genruntimeconfig.cache
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\ref\YouTubeApiTest.dll
