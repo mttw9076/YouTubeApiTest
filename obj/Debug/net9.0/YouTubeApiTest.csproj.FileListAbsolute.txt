@@ -12,3 +12,4 @@ C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\refint\YouTubeApiTe
 C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.pdb
 C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.genruntimeconfig.cache
 C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\ref\YouTubeApiTest.dll
+C:\Users\mtszp\Desktop\Nauka\YouTubeApiTest\obj\Debug\net9.0\YouTubeApiTest.sourcelink.json
